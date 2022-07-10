@@ -1,5 +1,11 @@
 # Calculadora_Forum
 
+
+
+https://user-images.githubusercontent.com/64293419/178154706-1cc0a733-1f3e-4c1b-b905-495f54be31c4.mp4
+
+
+
 A aplicação presente no link do repositório ClaudemirAlves/Calculadora_Forum foi desenvolvida utilizando-se da ferramenta Android Studio. Foram produzidos e editados, de maneira geral, três arquivos, que deram forma e funcionalidade ao aplicativo. São eles: activity_main.xml, themes.xml e MainActivity.java. 
 
 Para o desenvolvimento da estrutura visual do aplicativo, ou seja, sua interface, foram inseridos no arquivo activity_main.xml várias estruturas do tipo “LinearLayout”. Elas foram as responsáveis por organizar os elementos na tela, servindo como “apoio” para que os elementos visuais fossem inseridos sobre elas. Elementos como “TextView” e “Button” proporcionaram as interações com o usuário.  
